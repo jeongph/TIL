@@ -26,15 +26,10 @@ echo "\$boolean의 데이터형 (값 {$boolean})은 ".gettype($boolean);
 
 <?php
 
-/*
- * chapter 20. 데이터형
- *
- * php 프로그래밍 언어에서 사용하는 데이터형
- *
- * */
 
 $num = 12;
-echo "\$num의 데이터형 (값 {$num})은 ".getttype($num);
+echo "\$num의 데이터형 (값 {$num})은 ".gettype($num);
+// echo "\$num의 데이터형 (값 {$num})은 ".var_dump($num);  // 에러나길래 넣었는데 오타였음.
 echo "<br>";
 
 $greeting = "안녕";
