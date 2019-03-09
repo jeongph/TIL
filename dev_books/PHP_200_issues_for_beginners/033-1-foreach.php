@@ -23,7 +23,7 @@ foreach( $menberList as $ml )
 
 $memberList = ['마유', '유나', '민후', '해윤'];
 
-foreach( $menberList as $ml )
+foreach( $memberList as $ml )
 {
     echo $ml;
     echo'<br>';

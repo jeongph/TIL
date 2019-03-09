@@ -10,7 +10,7 @@
  *
  * */
 $str = " 양쪽 모두 공백을 없앤다. ";
-echo '|'.trim(str).'|';
+echo '|'.trim( $str).'|';
 echo '<br>';
 
 $str = " 왼쪽 공백을 없앤다. ";
