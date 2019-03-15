@@ -1,4 +1,4 @@
-<pre></pre>
-<hr>
 <?php
+show_source("./");
+echo "<hr />";
 ?>
