@@ -2,15 +2,7 @@
 show_source('./'.basename(__FILE__));
 echo "<hr />";
 /*
-
+	chapter 155-2.
 */
 ?>
-
-<!doctype html>
-<html>
-<head>
-</head>
-
-<body>
-</body>
-</html>
+{userId:['first', 'second', 'third']}
