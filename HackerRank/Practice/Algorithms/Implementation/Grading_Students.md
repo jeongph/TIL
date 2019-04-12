@@ -10,12 +10,12 @@ Sam이란 녀석은 다음과 같은 기준으로 점수를 받았다.
 
 ## Submit
 <pre><code> # 중요 코드
-    if( grades[i] < 40 ) continue;
-    else
-    {
-        int sub = (grades[i] + 5) % 5;
-        if( (sub) > 2 ) grades[i] += (5 - sub);
-    }
+        if( grades[i] < 38 ) continue;
+        else
+        {
+            int sub = (grades[i] + 5) % 5;
+            if( (sub) > 2 ) grades[i] += (5 - sub);
+        }
 </code></pre>
 
 1. 일단 38이하의 낙제점은 모두 원래랑 동일한 점수로 출력해버린다.
