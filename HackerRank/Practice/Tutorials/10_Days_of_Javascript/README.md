@@ -20,7 +20,7 @@ Print the following two lines of output:
 2. On the second line, print the contents of ***parameterVariable***.
 
 ---
-# Day2
+# Day1-1
 ## Day 0: Data Types
 
 ### Objective
@@ -42,3 +42,17 @@ Print the following three lines of output:
 1. On the first line, print the sum of ***firstInteger*** and the integer representation of ***secondInteger***.
 2. On the second line, print the sum of ***firstDecimal*** and the floating-point representation of ***secondDecimal***.
 3. On the third line, print  concatenated with ***firstString***. You must print  before ***secondString***.
+
+--- 
+# Day 2
+## Day 1: Arithmetic Operators(산술 연산자)
+- 어느 언어에서나 통하는 그저 동일한 산술연산자들 존재
+
+--- 
+# Day 2-1
+## Day 1: Functions(함수)
+- 일반적으로 변수선언할때는 선언 형식이 없기때문에 `var`로 통일
+
+--- 
+# Day 2-2
+## Day 1: Let and Const(상수)
