@@ -50,9 +50,14 @@ Print the following three lines of output:
 
 --- 
 # Day 2-1
-## Day 1: Functions(함수)
+## Functions(함수)
 - 일반적으로 변수선언할때는 선언 형식이 없기때문에 `var`로 통일
 
 --- 
 # Day 2-2
-## Day 1: Let and Const(상수)
+## Let and Const(상수)
+
+---
+# Day 3
+## Day 2: Conditional Statements: If-Else
+- if-else문은 똑같았다.. 오늘은 피곤해서 하나만....
