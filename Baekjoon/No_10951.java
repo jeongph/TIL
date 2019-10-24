@@ -5,14 +5,14 @@ public class Main
 	public static void main( String[] args )
 	{
 		Scanner in = new Scanner( System.in );
+		int A, B;
 
-		while( true )
+		do
 		{
-			int A = in.nextInt();
-			int B = in.nextInt();
+			A = in.nextInt();
+			B = in.nextInt();
 
-			if( A == 0 && B == 0 ) break;
-			else System.out.println( A + B );
-		}
+			System.out.println( A + B );
+		} while( in.hasNext() );
 	}
 }
