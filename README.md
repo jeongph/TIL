@@ -8,6 +8,6 @@ TIL means "Today I Learned".
 
 ## :handshake: Rule
 ### Repository creation rule
-- <project-name> : 기본적으론 소문자 형태의 [kebab-case](https://en.wiktionary.org/wiki/kebab_case)로 프로젝트명으로 제작
-- prac-< > : (==practice)연습장(특정 기능이나 서비스 연습)
-- clone-< > : 클론코딩(다른분들꺼 따라하거나, 특정 서비스 클론코딩)
+- `<project-name>` : 기본적으론 소문자 형태의 [kebab-case](https://en.wiktionary.org/wiki/kebab_case)로 프로젝트명으로 제작
+- `prac-< >` : (==practice)연습장(특정 기능이나 서비스 연습)
+- `clone-< >` : 클론코딩(다른분들꺼 따라하거나, 특정 서비스 클론코딩)
