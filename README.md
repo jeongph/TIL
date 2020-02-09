@@ -13,7 +13,7 @@
 
 # :bulb: Question
 > 의문점, 궁금증, 질문 등
-- github action tag push에 "v.*"이벤트 리스너 걸어놓고, 태깅에 "v.1.1.0-a" 같은 a버전 push를 하면 action이 동작하지 않는다 -> 일시적인 에러인지 확인 필요 (하고 이거 지우고 정리)
+- [ ] github action tag push에 "v.*"이벤트 리스너 걸어놓고, 태깅에 "v.1.1.0-a" 같은 a버전 push를 하면 action이 동작하지 않는다 -> 일시적인 에러인지 확인 필요 (하고 이거 지우고 정리)
 
 # :scroll: List-up
 > 정리를 이곳에 (? 임시)
