@@ -38,8 +38,11 @@ TIL
 5. END
 
 # :scroll: List-up
-> 정리를 이곳에 (? 임시)
+> 정리를 이곳에
+
+## projects
+
 ## knowledge
 
 ## sequential
-- [2020-01-22_vue-cli-reinstall](https://github.com/bin-e/TIL/blob/master/sequential/2020-01-22_vue-cli-reinstall.md)
+- [2020-01-22_vue-cli-reinstall](./sequential/2020-01-22_vue-cli-reinstall.md)
