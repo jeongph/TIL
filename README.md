@@ -41,7 +41,7 @@ TIL
 > 정리를 이곳에
 
 ## projects
-### side(playform)
+### side(platform)
 - [dayday](https://github.com/bin-e/dayday)
 
 ### practice
