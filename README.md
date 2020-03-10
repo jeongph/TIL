@@ -41,6 +41,11 @@ TIL
 > 정리를 이곳에
 
 ## projects
+### side(playform)
+- [dayday](https://github.com/bin-e/dayday)
+
+### practice
+- [vue-news](https://github.com/bin-e/vue-news)
 
 ## knowledge
 
