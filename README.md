@@ -40,12 +40,17 @@ TIL
 # :scroll: List-up
 > 정리를 이곳에
 
-## projects
+## Repository list-up
+### Save
+- [TIL](https://github.com/bin-e/TIL)
+- [helper](https://github.com/bin-e/helper)
+- [dev-words-book](https://github.com/bin-e/dev-words-book)
+- [algorithm](https://github.com/bin-e/algorithm)
+- [blog-post-code](https://github.com/bin-e/blog-post-code)
+- [blog-theme(tistory)](https://github.com/bin-e/blog-theme)
+
 ### side(platform)
 - [dayday](https://github.com/bin-e/dayday)
-
-### practice
-- [vue-news](https://github.com/bin-e/vue-news)
 
 ## knowledge
 
