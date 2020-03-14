@@ -1,4 +1,4 @@
-# Atom editor packages
+# Atom editor recommended package
 * atom-beautify
 * color-picker
 * emmet
