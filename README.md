@@ -50,7 +50,7 @@
 - [dev-words-book](https://github.com/bin-e/dev-words-book)
 - [algorithm](https://github.com/bin-e/algorithm)
 - [blog-post-code](https://github.com/bin-e/blog-post-code)
-- [blog-theme(tistory)](https://github.com/bin-e/blog-theme)
+- [blog-theme (tistory)](https://github.com/bin-e/blog-theme)
 
 ### project(platform)
 - [dayday](https://github.com/bin-e/dayday)
