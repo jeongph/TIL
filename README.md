@@ -63,7 +63,6 @@
 
 ## TIL contents list-up
 ### knowledge
-- [test-at-sign-repo](https://github.com/bin-e/test-at-sign)
 
 ### sequential
 - [2020-01-22_vue-cli-reinstall](./sequential/2020-01-22_vue-cli-reinstall.md)
