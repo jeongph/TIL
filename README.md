@@ -46,9 +46,12 @@
 ## Repository list-up
 ### favorites
 - [TIL](https://github.com/bin-e/TIL)
+- [resume](https://github.com/bin-e/resume)
+- [algorithm](https://github.com/bin-e/algorithm)
+
 - [helper](https://github.com/bin-e/helper)
 - [dev-words-book](https://github.com/bin-e/dev-words-book)
-- [algorithm](https://github.com/bin-e/algorithm)
+
 - [blog-post-code](https://github.com/bin-e/blog-post-code)
 - [blog-theme (tistory)](https://github.com/bin-e/blog-theme)
 
