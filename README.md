@@ -66,7 +66,7 @@
 
 ## TIL contents list-up
 ### knowledge
-- [npm_options](https://github.com/bin-e/TIL/blob/master/knowledge/npm_options.md)
+- [npm_options](./knowledge/npm_options.md)
 
 ### sequential
 - [2020-01-22_vue-cli-reinstall](./sequential/2020-01-22_vue-cli-reinstall.md)
