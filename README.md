@@ -1,15 +1,6 @@
 # :star2: TIL
 > TIL means "Today I Learned".
 
----
-# :handshake: Own rules & process
-> In order to remember, write down My own rules.
-
-## :label: Github repository creation rules
-- `<project-name>` : 기본적으론 소문자 형태의 [kebab-case](https://en.wiktionary.org/wiki/kebab_case)로 프로젝트명으로 제작
-- `prac-<project-name>` : (==practice)연습장 (특정 기능이나 서비스 연습)
-- `clone-<project-name>` : 클론 코딩 (다른분들꺼 따라하거나, 특정 서비스 클론코딩)
-
 ## :open_file_folder: Directory Structure
 ```
 /TIL
@@ -39,6 +30,15 @@
 3. 당장 정리가 된다면 좋겠지만, 일단은 모든 과정을 `sweat` 폴더에 기록 (날짜+주제로 하는게 좋을 것 같음)
 4. 분명 이것저것 깔았다가 지웠다가, 됐다가 안됐다가 하는거를 정리 할 수 있다면-> `sequential`에 정리
 5. END
+
+---
+# :handshake: Own rules
+> In order to remember, write down My own rules.
+
+## :label: Github repository creation rules
+- `<project-name>` : 기본적으론 소문자 형태의 [kebab-case](https://en.wiktionary.org/wiki/kebab_case)로 프로젝트명으로 제작
+- `prac-<project-name>` : (==practice)연습장 (특정 기능이나 서비스 연습)
+- `clone-<project-name>` : 클론 코딩 (다른분들꺼 따라하거나, 특정 서비스 클론코딩)
 
 ---
 # :scroll: List-up
