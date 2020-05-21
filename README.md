@@ -4,6 +4,7 @@
 ## :open_file_folder: Directory Structure
 ```
 /TIL
+  ├─ /TIL : TIL means "Today I Learned"
   ├─ /etc : (==et cetera) Other things "Want to write down"
   ├─ /knowledge : Something I have learned
   ├─ /sequential : Something arranged in perfect order
