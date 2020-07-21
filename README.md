@@ -57,6 +57,7 @@
 - [blog-post-code](https://github.com/bin-e/blog-post-code)
 - [blog-theme (tistory)](https://github.com/bin-e/blog-theme)
 
+<!--
 ### project(platform)
 | Project name | Serviced from |   Repo location   |
 | :----------: | :-----------: | :---------------: |
@@ -65,6 +66,7 @@
 
 [dayday]:https://github.com/bin-e/dayday
 [Temporage]:https://github.com/haneunjung/temporage-front
+-->
 
 ## TIL contents list-up
 ### knowledge
