@@ -41,6 +41,7 @@
 - `prac-<project-name>` : (==practice)연습장 (특정 기능이나 서비스 연습)
 - `clone-<project-name>` : 클론 코딩 (다른분들꺼 따라하거나, 특정 서비스 클론코딩)
 
+<!--
 ---
 # :scroll: List-up
 > 정리를 이곳에
@@ -56,6 +57,7 @@
 ---
 - [blog-post-code](https://github.com/bin-e/blog-post-code)
 - [blog-theme (tistory)](https://github.com/bin-e/blog-theme)
+-->
 
 <!--
 ### project(platform)
@@ -68,9 +70,11 @@
 [Temporage]:https://github.com/haneunjung/temporage-front
 -->
 
+<!--
 ## TIL contents list-up
 ### knowledge
 - [npm_options](./knowledge/npm_options.md)
 
 ### sequential
 - [2020-01-22_vue-cli-reinstall](./sequential/2020-01-22_vue-cli-reinstall.md)
+-->
