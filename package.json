@@ -1,0 +1,19 @@
+{
+  "name": "TIL",
+  "version": "0.0.1",
+  "description": "TIL!",
+  "main": "index.js",
+  "authors": {
+    "name": "Jeong-Uk Park",
+    "email": "dnr1105@gmail.com"
+  },
+  "repository": "https://github.com/bin-e/TIL",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
