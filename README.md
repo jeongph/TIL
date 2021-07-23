@@ -1,7 +1,7 @@
-# :star2: TIL
+# TIL
 > TIL means "Today I Learned".
 
-## :open_file_folder: Directory Structure
+## Directory Structure
 ```
 /TIL
   ├─ /TIL : TIL means "Today I Learned"
@@ -12,7 +12,7 @@
   └─ README.md
 ```
 
-## :fast_forward: Process
+## Process
 ### If I have a questions?
 1. [TIL repository](https://github.com/bin-e/TIL) 의 [Issues](https://github.com/bin-e/TIL/issues) 에 궁금한 내용 등록
 2. `다큐먼트` 나 `인터넷` 등을 참조하여 해당 내용을 찾아서 이해
