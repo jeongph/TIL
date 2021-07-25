@@ -2,7 +2,7 @@
 
 module.exports = {
   base: '/TIL/',
-  title: 'Bin-e',
+  title: 'Bin-e TIL',
   description: 'ParkJU',
 
   head: [
@@ -12,7 +12,7 @@ module.exports = {
   ],
 
   themeConfig: {
-    repo: '',
+    repo: 'https://github.com/bin-e/TIL',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
@@ -25,10 +25,6 @@ module.exports = {
       {
         text: 'Config',
         link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
       }
     ],
     sidebar: {
