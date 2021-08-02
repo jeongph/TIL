@@ -1,5 +1,5 @@
 ---
-home: false
+home: true
 sidebar: auto
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: TIL!
