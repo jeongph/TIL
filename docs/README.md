@@ -41,3 +41,7 @@ footer: Made by Jeong-Uk Park with ❤️
 3. 당장 정리가 된다면 좋겠지만, 일단은 모든 과정을 `sweat` 폴더에 기록 (날짜+주제로 하는게 좋을 것 같음)
 4. 분명 이것저것 깔았다가 지웠다가, 됐다가 안됐다가 하는거를 정리 할 수 있다면-> `sequential`에 정리
 5. END
+
+<!--
+update cname
+-->
