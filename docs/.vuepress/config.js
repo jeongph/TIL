@@ -1,7 +1,7 @@
 //const { description } = require('../../package')
 
 module.exports = {
-  base: '/TIL/',
+  base: '',
   title: 'Bin-e TIL',
   description: 'ParkJU',
 
