@@ -1,4 +1,4 @@
-### 맨날 까먹어서 일단 정리
+### 맨날 까먹어서 써놓기
 
 - github issue auto-close keyword
   - close
