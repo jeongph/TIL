@@ -1,0 +1,18 @@
+- 젠킨스, 우분투, 엔진엑스까진 띄워보는데 성공, 설정도 정상적으로 잘 된다
+- 제킨스의 경우 띄우고 나서 각 빌드를 실행할 k8s pod이 필요한데 이건 해결점 -> GKE를 활용할수도 (유료)
+- GKE가격정책을 엄청 대충봤는데 이거 써보던가 test 계정 만들어서 정확히 파악해야함
+- 실제로 포트를 자동 -> Fixed 로 수정한다면 공유기 포트포워딩 해놔야 외부에서 사용 가능할 것 같다
+- 우분투 올린거를 실제로 사용해보진 않았지만 아마 제대로 안돌아가는게 많긴 할텐데, 이걸로 그냥 단순 코딩작업이나 우분투 서버로 쓸수있다면 땡큐
+- 각 컨테이너를 묶는 공유 하드공간을 뭘로 해야하
+
+# References
+- https://github.com/bin-e/infra-gitops
+- https://jktech.tistory.com/41
+- https://www.lainyzine.com/ko/article/how-to-install-and-use-docker-on-your-synology-nas/
+- https://hub.docker.com/
+- https://registry.hub.docker.com/
+- (Q: hub.docker 랑 registry.hub.docker 랑 정확히 뭔차이냐;)
+- https://cloud.google.com/kubernetes-engine/pricing
+
+# Q
+- docker image에서 alpine 붙은거 정확히 뭐지
