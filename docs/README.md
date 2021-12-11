@@ -42,6 +42,3 @@ footer: Made by Jeong-Uk Park with ❤️
 4. 분명 이것저것 깔았다가 지웠다가, 됐다가 안됐다가 하는거를 정리 할 수 있다면-> `sequential`에 정리
 5. END
 
-<!--
-update cname
--->
