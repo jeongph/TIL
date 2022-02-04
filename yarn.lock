@@ -4075,7 +4075,7 @@
   "version" "1.18.1"
   dependencies:
     "eventemitter3" "^4.0.0"
-    "follow-redirects" "^1.0.0"
+    "follow-redirects" ">=1.14.7"
     "requires-port" "^1.0.0"
 
 "http-signature@~1.2.0":
