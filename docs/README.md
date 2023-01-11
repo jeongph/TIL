@@ -1,13 +1,3 @@
----
-home: false
-sidebar: auto
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: TIL!
-actionText: Quick Start →
-actionLink: /guide/
-footer: Made by Jeong-Uk Park with ❤️
----
-
 # TIL
 > TIL means "Today I Learned".
 
