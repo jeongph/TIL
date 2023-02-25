@@ -1,6 +1,9 @@
 # TIL
 > TIL means "Today I Learned".
 
+## Role 
+1. TIL은 "이쁜 정리" 보단 "막 쓸 수 있는곳" 에 가까워야 한다
+
 ## Directory Structure
 ```
 /TIL
