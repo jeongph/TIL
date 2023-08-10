@@ -1,10 +1,13 @@
 # TIL
+
 > TIL means "Today I Learned".
 
-## Role 
-1. TIL은 "이쁜 정리" 보단 "막 쓸 수 있는곳" 에 가까워야 한다
+## Role
+
+- TIL은 "이쁜 정리" 보단 "막 쓸 수 있는곳" 에 가까워야 한다
 
 ## Directory Structure
+
 ```
 /TIL
   ├─ /TIL : TIL means "Today I Learned"
@@ -16,7 +19,9 @@
 ```
 
 ## Process
+
 ### If I have a questions?
+
 1. [TIL repository](https://github.com/bin-e/TIL) 의 [Issues](https://github.com/bin-e/TIL/issues) 에 궁금한 내용 등록
 2. `다큐먼트` 나 `인터넷` 등을 참조하여 해당 내용을 찾아서 이해
 3. 내용을 다듬어서 다음 위치에 정리
@@ -27,6 +32,7 @@
 5. END
 
 ### the meaning of `sweat`
+
 > `~ 삽질기`라고 말할 때 보통 "개고생해서 무언가 알게 된 것"이라는 느낌으로 말하고 싶었는데, 찾아보면 `waste`라는 단어가 먼저 나온다. ~~그런 느낌 아닌데...~~
 > 노력해서 얻은 것. 이런 느낌으로 `effort`를 쓸까 했지만, 그것도 뭔가 느낌이 다른 것 같다. 결론적으론 `sweat`라는 단어에 일단 저장하기로.. "땀 흘려 얻은 결과" 뭐 이런 느낌인가 ...
 1. 뭔가 해보고싶은게 생기면 ~~(이런건 보통, 뭘하면 안되는지 감도 안옴)~~ 일단 `repo` 나 `project` 부터 만들어서 시작
