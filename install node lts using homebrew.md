@@ -22,3 +22,4 @@ npm --version # 동작 확인
 
 - https://stackoverflow.com/questions/40000509/how-to-install-lts-version-of-nodejs-via-homebrew
 - https://formulae.brew.sh/formula/node
+- https://tomatohj.tistory.com/46
