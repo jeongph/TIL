@@ -1,4 +1,8 @@
-- MacBook 로컬 MySQL 설치
+# 맥북(MacBook) 로컬에 MySQL 셋업 & 사용 
+
+## MySQL 설치 
+
+- MySQL 설치 with brew 
 ``` sh
 # LTS(8.4)
 brew install mysql@8.4
@@ -25,3 +29,26 @@ brew services start mysql@8.4
 # 6. Reload privilege tables now? -> Yes (설정을 반영할까요 ?) 
 ```
 
+- `mysql`, `mysql.server start` 등의 명령어 링크
+``` sh
+echo 'export PATH="/opt/homebrew/opt/mysql@8.4/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+```
+
+## MySQL 기본 사용 
+
+- 접속 하기
+``` sh
+mysql -u root -p # 위에서 설정한 비밀번호 입력 
+```
+
+- DB 목록 확인 (당연히 초기라 별거 없음)
+``` sh
+SHOW DATABASES;
+```
+
+- Database 생성
+- 사용자 생성 & 데이터베이스 권한 설정
+
+---
+(end)
