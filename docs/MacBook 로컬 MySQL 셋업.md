@@ -10,7 +10,7 @@ brew install mysql@8.4
 ```
 
 - 다운로드 완료 후 서비스 시작
-- 과거에는 `mysql.server start` 로 썼었는데, `brew services` 를 사용하면 macOS 의 launchd 로 데몬 관리를 함 
+- 과거에는 `mysql.server start` 로 썼었는데, `brew services` 를 사용하면 macOS 의 launchd 로 데몬 관리를 함 (편한대로 사용하면 되긴함) 
 ``` sh
 brew services start mysql@8.4
 ```
