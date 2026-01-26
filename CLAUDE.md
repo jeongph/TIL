@@ -31,3 +31,31 @@
 
 - Issue 템플릿: Question, Todo 라벨 사용
 - PR 템플릿: 제목, 내용, 코드 특이점 섹션 포함
+
+## MkDocs
+
+### 설치
+
+```bash
+pip install mkdocs-material
+```
+
+### 로컬 서버 실행
+
+```bash
+mkdocs serve
+```
+
+http://127.0.0.1:8000 접속
+
+### 빌드
+
+```bash
+mkdocs build
+```
+
+### 배포 (GitHub Pages)
+
+```bash
+mkdocs gh-deploy
+```
