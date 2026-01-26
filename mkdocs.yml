@@ -1,0 +1,110 @@
+site_name: Jeonguk's TIL
+site_description: Today I Learned - 학습 기록 저장소
+site_author: Jeonguk
+
+theme:
+  name: material
+  language: ko
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 다크 모드로 전환
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 라이트 모드로 전환
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: ko
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - toc:
+      permalink: true
+
+nav:
+  - Home: README.md
+  - Git:
+    - git/github-강제-푸시.md
+    - git/github-폴더명-대소문자-변경.md
+    - git/github-template-repository.md
+    - git/github-ignore-재설정.md
+    - git/github-grass.md
+    - git/github-organization-profile.md
+    - git/master-to-main.md
+    - git/git-local-config-set.md
+    - git/github-auto-close.md
+    - git/github-이미지-배달.md
+  - Database:
+    - database/macbook-로컬-mysql-셋업.md
+    - database/mysql-다중-update.md
+    - database/mysql-alter.md
+  - DevOps:
+    - devops/ec2-setting.md
+    - devops/github-release-action.md
+    - devops/k3s-practice.md
+    - devops/시놀로지-나스-활용.md
+    - devops/github-action-vue-cicd.md
+    - devops/우분투-서버-셋팅.md
+    - devops/네트워크-딥다이브.md
+    - devops/kubeflow.md
+  - Programming:
+    - Kotlin:
+      - programming/kotlin/entity.md
+      - programming/kotlin/기본-문법.md
+      - programming/kotlin/함수-정의.md
+    - PHP:
+      - programming/php/클래스-기본.md
+  - Frontend:
+    - frontend/jekyll-theme-setting.md
+    - frontend/vue-cli-reinstall.md
+    - frontend/npm-options.md
+  - Architecture:
+    - architecture/인프콘-멀티모듈.md
+    - architecture/코드리뷰-체크리스트.md
+  - Mac Setup:
+    - mac-setup/맥-환경변수-셋팅.md
+  - ETC:
+    - etc/atom-editor-recommended-package.md
+    - etc/backend-free-release.md
+    - etc/파인만-학습법.md
+    - etc/그래들-설정파일.md
+  - TIL (Daily):
+    - TIL/2024-03-03/README.md
+    - TIL/2021-09-28/README.md
+    - TIL/2021-09-16/README.md
+    - TIL/2021-08-26-macbook-pro-setting.md
+    - TIL/2021-03-21.md
+    - TIL/2020-07-22.md
+    - TIL/2020-07-21.md
+    - TIL/2020-07-20.md
+    - TIL/2020-07-07.md
+    - TIL/2020-06-24.md
+    - TIL/2020-06-23.md
+    - TIL/2020-06-20.md
+    - TIL/2020-05-29.md
+    - TIL/2020-05-26.md
+    - TIL/2020-05-21.md
+    - TIL/2020-05-12.md
+    - TIL/2020-05-11.md
