@@ -16,6 +16,7 @@
 - `/docs/frontend/` - Vue, Jekyll 등
 - `/docs/architecture/` - 설계, 코드리뷰
 - `/docs/TIL/` - 날짜별 학습 기록 (Today I Learned)
+- `/docs/curiosity/` - 호기심, 궁금증을 직접 파헤쳐본 기록
 - `/docs/etc/` - 기타 메모 및 기록
 
 ## 콘텐츠 가이드라인

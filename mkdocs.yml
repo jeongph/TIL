@@ -90,6 +90,8 @@ nav:
     - etc/backend-free-release.md
     - etc/파인만-학습법.md
     - etc/그래들-설정파일.md
+  - Curiosity:
+    - curiosity/claude-code-설정-상속-범위.md
   - TIL (Daily):
     - TIL/2024-03-03/README.md
     - TIL/2021-09-28/README.md
